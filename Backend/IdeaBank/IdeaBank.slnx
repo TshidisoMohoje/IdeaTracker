@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="IdeaBank.Tests/IdeaBank.Tests.csproj" Id="a9756f74-56e0-47b6-ad99-fb2ad04b022e" />
+  <Project Path="IdeaBank/IdeaBank.csproj" />
+</Solution>
